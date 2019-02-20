@@ -1,4 +1,4 @@
 #/bin/sh
 ng build
-cp -R ./dist/crenoApp/* ../
+cp -R ./dist/globaleagletemp/* ../
 cp ../index.html ../index.php

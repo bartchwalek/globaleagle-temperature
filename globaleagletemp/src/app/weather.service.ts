@@ -82,7 +82,7 @@ http://history.openweathermap.org/data/2.5/history/city?q={city ID},{country cod
     this.dataStore = { weathers: [] };
   }
 
-  givendates = ["2019-02-16"]//, "2019-02-17", "2019-02-18", "2019-02-19"];
+  givendates = ["2019-02-16", "2019-02-17", "2019-02-18", "2019-02-19"];
 
   public addTemp(val: number) {
 const service = this;
